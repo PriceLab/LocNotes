@@ -21,6 +21,6 @@ Sample use (from the unitTests)
   ````
   One might use this by:
   
-    * creating a notes object associated with a research project
-    * saving your accumulating notes at the end of each session, e.g. `save(notes, file="~/ADnotes.RData")`
-    
+  * creating a notes object associated with a research project
+  * saving your accumulating notes at the end of each session, e.g. `save(notes, file="~/ADnotes.RData")`
+  
