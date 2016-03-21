@@ -19,7 +19,8 @@ Sample use (from the unitTests)
   checkEquals(getNote(notes, "foo"), "bar")
   checkEquals(getNote(notes, "pval"), 1.2e3)
   ````
-  One might use this by
-    - creating a notes object associated with a research project
-    - saving your accumulating notes at the end of each session, e.g. `save(notes, file="~/ADnotes.RData")`
+  One might use this by:
+  
+    * creating a notes object associated with a research project
+    * saving your accumulating notes at the end of each session, e.g. `save(notes, file="~/ADnotes.RData")`
     
