@@ -1,0 +1,12 @@
+Package: LocNotes
+Type: Package
+Title: LocNotes
+Version: 0.99.0
+Date: 2016-03-21
+Author: Paul Shannon
+Maintainer:  <pshannon@systemsbiology.org>
+Depends: R (>= 3.2.3)
+Suggests: RUnit
+Description:  An R package for the informal annotation chromosomal locations
+License: GPL
+LazyLoad: yes

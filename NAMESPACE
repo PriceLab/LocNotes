@@ -1,0 +1,13 @@
+export(
+    LocNotes
+    )
+
+exportMethods(
+    addNote,
+    getNames,
+    getNote,
+    getChromosome,
+    getStart,
+    getEnd,
+    getLocationString
+    )
